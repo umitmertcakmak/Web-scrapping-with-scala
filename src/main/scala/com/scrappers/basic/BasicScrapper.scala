@@ -27,6 +27,8 @@ object BasicScrapper extends App{
 
   writer.close()
 
+  // pulling
+
 //  val a_elements = doc >> elementList(".markets-bar-collection a")
 //
 //  val links = a_elements.map(_ >> attr("href"))
